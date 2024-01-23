@@ -1,11 +1,17 @@
 <h1 align="center">Hello 👋, I'm BELLAHSENE Mehdi</h1>
-<h3 align="center">A Computer Science Student and</h3>
+<h3 align="center">Étudiant en informatique passionné, Bienvenue sur ma page github où je partage mes travaux.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdibellahsene&label=Profile%20views&color=0e75b6&style=flat" alt="mehdibellahsene" /> </p>
 
+- 👨‍💻 Tout mes projets sont disponibles ici : [https://mehdibellahsene.github.io/portfolio/](https://mehdibellahsene.github.io/portfolio/)
+
+- 📫 Contactez moi à l'adresse suivante : **mehdiredha6@gmail.com**
+
+- 📄 Consultez mes Experiences : [https://mehdibellahsene.github.io/resume/](https://mehdibellahsene.github.io/resume/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bellahsene mehdi redha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bellahsene mehdi redha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehdi-redha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi-redha" height="30" width="40" /></a>
 <a href="https://instagram.com/mehdiredha15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehdiredha15" height="30" width="40" /></a>
 </p>
 
