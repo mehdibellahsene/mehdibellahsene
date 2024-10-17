@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm BELLAHSENE Mehdi</h1>
 <h3 align="center">Étudiant en informatique passionné, Bienvenue sur ma page github où je partage mes travaux.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdibellahsene&label=Profile%20views&color=0e75b6&style=flat" alt="mehdibellahsene" /> </p>
-
 - 👨‍💻 Tout mes projets sont disponibles ici : [https://mehdibellahsene.github.io/portfolio/](https://mehdibellahsene.github.io/portfolio/)
 
 - 📫 Contactez moi à l'adresse suivante : **mehdiredha6@gmail.com**
